@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214733401571",
+    "firebase_url": "https://nutritious-food-95f57.firebaseio.com",
+    "project_id": "nutritious-food-95f57",
+    "storage_bucket": "nutritious-food-95f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214733401571:android:142acf730357d1f091c4d6",
+        "android_client_info": {
+          "package_name": "com.example.nutritiousfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214733401571-pf4icuv9n7elftbcp2b6s0fnd4128u1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutritiousfood",
+            "certificate_hash": "5d2362e434082b441c90e72f890bd139b78bacfa"
+          }
+        },
+        {
+          "client_id": "214733401571-3g63qgc97ok56fgrbtv05rb27bmnf19c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIJ2ykMUHBU7EkPeHOS0BdUi1npV95_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214733401571-3g63qgc97ok56fgrbtv05rb27bmnf19c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
